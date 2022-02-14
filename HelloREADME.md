@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Morningstarn
+- 👀 I’m interested in solving problems and building projects.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to collaborate on any interesting project.
+- 📫 you can reach me on my twitter @kennethitaaga.
